@@ -1,0 +1,6 @@
+com\bancaficticiatest\pages\BasePage.class
+com\bancaficticiatest\pages\TransferPage.class
+com\bancaficticiatest\pages\BalancePage.class
+com\bancaficticiatest\pages\LoginPage.class
+com\bancaficticiatest\pages\MenuPage.class
+com\bancaficticiatest\BancaFicticiaTest.class
