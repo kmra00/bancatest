@@ -1,6 +1,6 @@
 # Automatización de Pruebas - Banca Ficticia
 
-Proyecto de automatización de pruebas para el sitio web de Banca Ficticia implementando Selenium WebDriver con Java.
+Proyecto de SELENIUM WEBDRIVER automatización de pruebas para el sitio web de Banca Ficticia implementando Selenium WebDriver con Java.
 
 ## Requisitos del Sistema
 - Java JDK 17
